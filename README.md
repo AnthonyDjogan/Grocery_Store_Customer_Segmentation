@@ -15,6 +15,13 @@ Based on RFM metrics, we will segment the customer using K-Means Clustering algo
 ## Data for Modeling
 ![image](https://github.com/AnthonyDjogan/Grocery_Store_Customer_Segmentation/assets/128353420/74e9af28-ae52-4cae-a7c9-09f096de1284)
 
+## Finding Best Number of Cluster
+![image](https://github.com/AnthonyDjogan/Grocery_Store_Customer_Segmentation/assets/128353420/c1358381-06a2-42b6-ab39-83ea8a7ee041)
+There is no clear elbow that can be seen from the plot, however if we examine the table, the difference in inertia values becomes less significant from 4 clusters onwards. Based on the silhouette score, the optimal number of clusters is 4, as it has a relatively high score above 0.5. A silhouette score above 0.5 usually indicates reasonably well-defined clusters, where there are significant differences in characteristics between clusters.
+
+The final decision on the number of clusters should also take into account business context, not just based on the evaluation of inertia and silhouette score. It is crucial to strike a balance between granularity and practicality, ensuring that the chosen number of clusters aligns with the company's marketing strategies and objective.
+
+For this project we will use 4 clusters.
 ## Result
 ![image](https://github.com/AnthonyDjogan/Grocery_Store_Customer_Segmentation/assets/128353420/71bd43f6-4274-443d-994c-b3ac96fa6c17)
 ![image](https://github.com/AnthonyDjogan/Grocery_Store_Customer_Segmentation/assets/128353420/286d012c-4114-467b-a266-b3eb816d5848)
