@@ -13,7 +13,7 @@ Based on RFM metrics, we will segment the customer using K-Means Clustering algo
 ![image](https://github.com/AnthonyDjogan/Grocery_Store_Customer_Segmentation/assets/128353420/2ede114c-c090-4142-8182-ddd5eb5afc66)
 
 ## Data for Modeling
-![image](https://github.com/AnthonyDjogan/Grocery_Store_Customer_Segmentation/assets/128353420/f65841bd-f500-4e4a-8ab9-688f59eb34ce)
+![image](https://github.com/AnthonyDjogan/Grocery_Store_Customer_Segmentation/assets/128353420/74e9af28-ae52-4cae-a7c9-09f096de1284)
 
 ## Result
 ![image](https://github.com/AnthonyDjogan/Grocery_Store_Customer_Segmentation/assets/128353420/71bd43f6-4274-443d-994c-b3ac96fa6c17)
